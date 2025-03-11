@@ -9,5 +9,5 @@ patchesStrategicMerge:
   - argocd-cmd-params-cm.yaml
   - cm-argocd-rbac-cm.yaml
 images:
-  - name: quay.io/argoproj/argocd:v2.7.6
-    newTag: v2.7.6
+  - name: quay.io/argoproj/argocd:v2.8.21
+    newTag: v2.8.21
